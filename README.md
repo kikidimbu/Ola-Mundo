@@ -3,4 +3,4 @@
 
  Repositório criado para seguir as orientações do curso em vídeo pelo professor Gustavo Guanabara.
 
-Essa linha eu alterei remotamente no GitHub.
+ Essa linha eu adicionei remotamente no GitHub.
