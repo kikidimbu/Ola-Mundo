@@ -19,7 +19,7 @@ ID | Nome | Nota
 3 | Mario | 8.7
 4 | Janaína | 7.4
 
-### ID | Símbolo | Opção | Função
+ID | Símbolo | Opção | Função
 ---|---|---|---
 1. | **teste** | __teste__ | negrito
 3. | *teste* | _teste_ | itálico
