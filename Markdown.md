@@ -29,7 +29,7 @@ ID | Símbolo | Opção | Função
 4 | ## | NA | título 2
 5 | ### | NA | título 3
 6 | *** | --- | uma linha
-7 | __* | ** | Negrito e Itálico
+7 | __* | **_ | Negrito e Itálico
 8 | 1. | NA | Lista
 9 | 3 espaços + 1. | NA | Sublista
 10 | - | * | Item de lista desmarcada
