@@ -20,10 +20,8 @@ ID | Nome | Nota
 4 | Janaína | 7.4
 
 ### ID | Símbolo | Opção | Função
----|---|---|---|
-1. | ** | __ | negrito
-
-
+---|---|---|---
+1. | **teste** | __teste__ | negrito
 3. | *teste* | _teste_ | itálico
 4. | # Title 1 | NA | título 1
 5. | ## Title 2 | NA | título 2
