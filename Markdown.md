@@ -21,26 +21,28 @@ ID | Nome | Nota
 
 ### ID | Símbolo | Opção | Função
 ---|---|---|---|
-1. | **teste** | __teste__ | negrito
-1. | *teste* | _teste_ | itálico
-1. | # Title 1 | NA | título 1
-1. | ## Title 2 | NA | título 2
-1. | ### Title 3| NA | título 
-1. | ***linha*** | ---linha--- | uma linha
-1. | __*teste*__ | **_teste_** | Negrito e Itálico
-1. | 1. | NA | Lista
-1. | 3 espaços + 1. | NA | Sublista
-1. | - item | * item | Lista desmarcada
-1. | - [ ] | NA | Lista de Tarefas a fazer
-1. | - [x] | NA | Lista de Tarefas cumpridas
-1. | ! [] | NA | Descrição de uma imagem (que pode ser alterada)
-1. | [Info] (Link) | NA | Criação de hiperlink
-1. | 4 espaços | NA | Uma tabulação
-1. | : | NA | Emoji (github.com/ikatyang/emoji
-1. | Emojis nos títulos | NA | emojipedia.org (Ctrl+C, Ctrel+V)
-2. | @ | NA | Marcar pessoas
-3. | > | NA | Reply
-4. | ... | NA | quote reply OU Create new saved reply
-5. | ~~~teste~~~~ | NA | riscado
-6. |`teste`| NA | linha de comando
-7. |```teste``` | NA | Sequência de comandos
+1. | ** | __ | negrito
+
+
+3. | *teste* | _teste_ | itálico
+4. | # Title 1 | NA | título 1
+5. | ## Title 2 | NA | título 2
+6. | ### Title 3| NA | título 
+7. | ***linha*** | ---linha--- | uma linha
+8. | __*teste*__ | **_teste_** | Negrito e Itálico
+9. | 1. | NA | Lista
+10. | 3 espaços + 1. | NA | Sublista
+11. | - item | * item | Lista desmarcada
+12. | - [ ] | NA | Lista de Tarefas a fazer
+13. | - [x] | NA | Lista de Tarefas cumpridas
+14. | ! [] | NA | Descrição de uma imagem (que pode ser alterada)
+15. | [Info] (Link) | NA | Criação de hiperlink
+16. | 4 espaços | NA | Uma tabulação
+17. | : | NA | Emoji (github.com/ikatyang/emoji
+18. | Emojis nos títulos | NA | emojipedia.org (Ctrl+C, Ctrel+V)
+19. | @ | NA | Marcar pessoas
+20. | > | NA | Reply
+21. | ... | NA | quote reply OU Create new saved reply
+22. | ~~~teste~~~~ | NA | riscado
+23. |`teste`| NA | linha de comando
+24. |```teste``` | NA | Sequência de comandos
