@@ -23,13 +23,13 @@ Para adicionar imagens nas Issues basta arrastá-las para a linha de arraste, bu
 
 ID | Símbolo | Opção | Função
 ---|---|---|---
-1 | **teste** | __teste__ | negrito
-2 | *teste* | _teste_ | itálico
-3 | # Title 1 | NA | título 1
-4 | ## Title 2 | NA | título 2
-5 | ### Title 3| NA | título 
-6 | ***linha*** | ---linha--- | uma linha
-7 | __*teste*__ | **_teste_** | Negrito e Itálico
+1 | ** | __ | negrito
+2 | * | _ | itálico
+3 | # | NA | título 1
+4 | ## | NA | título 2
+5 | ### | NA | título 3
+6 | *** | --- | uma linha
+7 | __* | ** | Negrito e Itálico
 8 | 1. | NA | Lista
 9 | 3 espaços + 1. | NA | Sublista
 10 | - item | * item | Lista desmarcada
