@@ -32,7 +32,7 @@ ID | Símbolo | Opção | Função
 7 | __* | ** | Negrito e Itálico
 8 | 1. | NA | Lista
 9 | 3 espaços + 1. | NA | Sublista
-10 | - item | * item | Lista desmarcada
+10 | - | * | Item de lista desmarcada
 11 | - [ ] | NA | Lista de Tarefas a fazer
 12 | - [x] | NA | Lista de Tarefas cumpridas
 13 | ! [] | NA | Descrição de uma imagem (que pode ser alterada)
@@ -43,6 +43,6 @@ ID | Símbolo | Opção | Função
 18 | @ | NA | Marcar pessoas
 19 | > | NA | Reply
 20 | ... | NA | quote reply OU Create new saved reply
-21 | ~~~teste~~~~ | NA | riscado
-22 |`teste`| NA | linha de comando
-23 |```teste``` | NA | Sequência de comandos
+21 | ~~~ | NA | riscado
+22 |`| NA | linha de comando
+23 |``` | NA | Sequência de comandos
