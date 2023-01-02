@@ -12,17 +12,15 @@ John Grubber (podcaster de IT) + Aaroz Swartz (programador e desenvolvedor muito
     Arquivos .md são arquivos markdown
 
 ### Tabela
-ID|Nome|Média
-
-1|João|9.5
-
-2|Catarina|10
-
-3|Mario|8.7
-
-4|Janaína|7.4
+ID | Nome | Nota
+---|---|---
+1 | João | 9.5
+2 | Catarina | 10
+3 | Mario | 8.7
+4 | Janaína | 7.4
 
 ### ID | Símbolo | Opção | Função
+---|---|---|---|
 1. | **teste** | __teste__ | negrito
 1. | *teste* | _teste_ | itálico
 1. | # Title 1 | NA | título 1
