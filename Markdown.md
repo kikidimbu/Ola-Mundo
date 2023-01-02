@@ -19,6 +19,8 @@ ID | Nome | Nota
 3 | Mario | 8.7
 4 | Janaína | 7.4
 
+Para adicionar imagens nas Issues basta arrastá-las para a linha de arraste, buscando imagens pequenas de até 500 pxls de largura
+
 ID | Símbolo | Opção | Função
 ---|---|---|---
 1 | **teste** | __teste__ | negrito
